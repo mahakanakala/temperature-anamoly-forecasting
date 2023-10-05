@@ -12,3 +12,6 @@
 ## Model used to build forecaster: [Prophet](https://facebook.github.io/prophet/)
 
 ## [Performance Statistics](data/performance_table.csv)
+
+![image](https://github.com/mahakanakala/datathon23/assets/96635744/6e607d66-2a91-4605-b189-bca18e62a0bf)
+
